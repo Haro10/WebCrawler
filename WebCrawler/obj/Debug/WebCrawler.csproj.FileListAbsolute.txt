@@ -1,0 +1,13 @@
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\Fizzler.dll
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\Fizzler.xml
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+c:\users\hiro\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
